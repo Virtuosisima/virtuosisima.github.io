@@ -4,7 +4,7 @@ Ik heet Raphaël en ik ben en Belgische student.
 
 | Indice |
 | ------- |
-| [Mijn sociale media](https://virtuosisima.github.io/#Mijn_sociale_media) |
+| [Mijn sociale media](https://virtuosisima.github.io#Mijn_sociale_media) |
 
 ### Hier zie je sommige foto's aan mijn komputer
 
